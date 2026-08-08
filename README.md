@@ -122,7 +122,7 @@ Description: User login page.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/AsmitPanigrahi/Hangry-F-B.git
+git clone https://github.com/Absosh/Hangry.git
 ```
 
 ### Frontend Setup
