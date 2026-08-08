@@ -1,4 +1,4 @@
-# Foodies - Food Delivery Application
+# Hangry - Food Delivery Application
 
 A full-stack food delivery application built with React and Node.js.
 

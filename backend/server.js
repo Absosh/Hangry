@@ -99,7 +99,7 @@ const paymentRoutes = require('./routes/payment.routes');
 app.get('/', (req, res) => {
     res.status(200).json({
         status: 'success',
-        message: 'Welcome to Foodies API! Please use /api/[resource] for API endpoints.'
+        message: 'Welcome to Hangry API! Please use /api/[resource] for API endpoints.'
     });
 });
 

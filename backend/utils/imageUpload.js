@@ -22,7 +22,7 @@ const uploadImage = async (file) => {
         while (retries > 0) {
             try {
                 result = await cloudinary.uploader.upload(localFilePath, {
-                    folder: 'foodies',
+                    folder: 'hangry',
                     use_filename: true,
                     unique_filename: true,
                     resource_type: 'auto'

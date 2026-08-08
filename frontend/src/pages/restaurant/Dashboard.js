@@ -87,7 +87,7 @@ const Dashboard = () => {
     return (
       <div className="flex flex-col items-center justify-center h-[calc(100vh-100px)]">
         <div className="text-center">
-          <h2 className="text-2xl font-semibold text-gray-900 mb-4">Welcome to Foodies!</h2>
+          <h2 className="text-2xl font-semibold text-gray-900 mb-4">Welcome to Hangry!</h2>
           <p className="text-gray-600 mb-8">You haven't created a restaurant profile yet.</p>
           <Link
             to="/restaurant/profile"

@@ -40,7 +40,7 @@ const Home = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h2 className="text-3xl font-extrabold text-gray-900">
-              Why Choose Foodies?
+              Why Choose Hangry?
             </h2>
           </div>
           <div className="mt-10">
@@ -119,11 +119,11 @@ const Home = () => {
       <div className="bg-indigo-700">
         <div className="max-w-2xl mx-auto text-center py-16 px-4 sm:py-20 sm:px-6 lg:px-8">
           <h2 className="text-3xl font-extrabold text-white sm:text-4xl">
-            <span className="block">Ready to try Foodies?</span>
+            <span className="block">Ready to try Hangry?</span>
             <span className="block">Start ordering today.</span>
           </h2>
           <p className="mt-4 text-lg leading-6 text-indigo-200">
-            Join thousands of satisfied customers who order their favorite food through Foodies.
+            Join thousands of satisfied customers who order their favorite food through Hangry.
           </p>
           <Link
             to={user ? "/restaurants" : "/register"}

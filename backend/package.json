@@ -1,7 +1,7 @@
 {
-  "name": "foodies-backend",
+  "name": "hangry-backend",
   "version": "1.0.0",
-  "description": "Backend for Foodies food delivery application",
+  "description": "Backend for Hangry food delivery application",
   "main": "server.js",
   "engines": {
     "node": ">=18.0.0"

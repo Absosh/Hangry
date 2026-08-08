@@ -25,7 +25,7 @@ const Navbar = () => {
           <div className="flex">
             <Link to="/" className="flex items-center">
               <span className="text-2xl font-extrabold text-gray-800 hover:scale-105 transition-transform">
-                Foodies
+                Hangry
               </span>
             </Link>
             {user && (

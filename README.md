@@ -1,11 +1,11 @@
-# Foodies - Food Delivery Application
+# Hangry - Food Delivery Application
 
 ## Overview
-Foodies is a comprehensive food delivery application designed to provide users with a seamless and enjoyable experience when browsing, ordering, and managing food deliveries. The application leverages modern web technologies to offer a responsive and user-friendly interface that works flawlessly across various devices. Whether you're craving a quick snack or planning a full-course meal, Foodies makes it easy to find and order your favorite dishes from local restaurants.
+Hangry is a comprehensive food delivery application designed to provide users with a seamless and enjoyable experience when browsing, ordering, and managing food deliveries. The application leverages modern web technologies to offer a responsive and user-friendly interface that works flawlessly across various devices. Whether you're craving a quick snack or planning a full-course meal, Hangry makes it easy to find and order your favorite dishes from local restaurants.
 
-The application features a robust backend built with Node.js and Express, ensuring secure and efficient handling of user data and orders. With MongoDB as the database, Foodies can store and retrieve data quickly and reliably. The frontend, developed using React and Tailwind CSS, provides a visually appealing and intuitive user interface. Additionally, the integration of Cloudinary allows for efficient media management, ensuring that images and other media files are handled seamlessly.
+The application features a robust backend built with Node.js and Express, ensuring secure and efficient handling of user data and orders. With MongoDB as the database, Hangry can store and retrieve data quickly and reliably. The frontend, developed using React and Tailwind CSS, provides a visually appealing and intuitive user interface. Additionally, the integration of Cloudinary allows for efficient media management, ensuring that images and other media files are handled seamlessly.
 
-Foodies also prioritizes security, with features like JWT-based user authentication, input sanitization, and secure HTTP headers. The application is designed to be scalable and maintainable, making it a reliable choice for both users and developers.
+Hangry also prioritizes security, with features like JWT-based user authentication, input sanitization, and secure HTTP headers. The application is designed to be scalable and maintainable, making it a reliable choice for both users and developers.
 
 ## Tech Stack
 - **Frontend:**
@@ -40,8 +40,8 @@ Foodies also prioritizes security, with features like JWT-based user authenticat
 
 ## Presentation Files
 
-- [Foodies-Food-Delivery.pptx](Presentation/Foodies-Food-Delivery.pptx): A PowerPoint presentation detailing the food delivery service.
-- [Foodies.docx](Presentation/Foodies.docx): A document providing additional information about the food delivery service.
+- [Hangry-Food-Delivery.pptx](Presentation/Hangry-Food-Delivery.pptx): A PowerPoint presentation detailing the food delivery service.
+- [Hangry.docx](Presentation/Hangry.docx): A document providing additional information about the food delivery service.
 
 ## Website Images
 
@@ -122,7 +122,7 @@ Description: User login page.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/AsmitPanigrahi/Foodies-F-B.git
+git clone https://github.com/AsmitPanigrahi/Hangry-F-B.git
 ```
 
 ### Frontend Setup
@@ -139,7 +139,7 @@ git clone https://github.com/AsmitPanigrahi/Foodies-F-B.git
 ### Backend Setup
 1. Navigate to the backend directory:
    ```bash
-   cd ../Foodies
+   cd ../Hangry
    ```
 2. Install dependencies:
    ```bash
